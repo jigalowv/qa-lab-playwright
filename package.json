@@ -1,0 +1,23 @@
+{
+  "name": "qa-lab-playwright",
+  "version": "1.0.0",
+  "description": "ЯПЗТ комплексна лабораторна робота",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jigalowv/qa-lab-playwright.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/jigalowv/qa-lab-playwright/issues"
+  },
+  "homepage": "https://github.com/jigalowv/qa-lab-playwright#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.57.0",
+    "@types/node": "^24.10.2"
+  }
+}
